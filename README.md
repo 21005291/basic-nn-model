@@ -12,7 +12,7 @@ In this basic NN Model, we have used "relu" activation function in input and hid
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![](https://github.com/21005291/basic-nn-model/blob/main/a.png)
 
 ## DESIGN STEPS
 
@@ -87,21 +87,21 @@ ai_brain.predict(input_scaled)
 
 ## Dataset Information
 
-Include screenshot of the dataset
+![](https://github.com/21005291/basic-nn-model/blob/main/b.png)
 
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
 
-Include your plot here
+![](https://github.com/21005291/basic-nn-model/blob/main/c.png)
 
 ### Test Data Root Mean Squared Error
 
-Find the test data root mean squared error
+![](https://github.com/21005291/basic-nn-model/blob/main/d.png)
 
 ### New Sample Data Prediction
 
-Include your sample input and output here
+![](https://github.com/21005291/basic-nn-model/blob/main/e.png)
 
 ## RESULT
 A Basic neural network regression model for the given dataset is developed successfully.
